@@ -21,7 +21,7 @@ const App: React.FC = () => {
     <>
 
 
-    {/* <Redirect from="/" to = "/home"/> */}
+     <Redirect from="/" to = "/home"/> 
     
      <Route path = "/home" render = {()=><main className="app_wrapper"> <Home/> </main>}></Route> 
   

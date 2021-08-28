@@ -7,15 +7,18 @@ import reportWebVitals from './reportWebVitals';
 import store from './Redux/store';
 import {BrowserRouter as Router} from 'react-router-dom';
 import '@fortawesome/fontawesome-free/css/all.min.css';
+import { HashRouter} from "react-router-dom";
 
 ReactDOM.render(
  <React.StrictMode>
+<HashRouter basename = {process.env.PUBLIC_URL}>  
    <Router>
   <Provider store = {store}>
 
     <App />
     </Provider>
     </Router>
+    </HashRouter>    
   </React.StrictMode>,
   document.getElementById('root')
 );
