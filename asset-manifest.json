@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Exclusive-PG/exclusive-platform-deploy.git/static/css/main.60364d81.chunk.css",
+    "main.js": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/main.c0a7ae3c.chunk.js",
+    "main.js.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/main.c0a7ae3c.chunk.js.map",
+    "runtime-main.js": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/runtime-main.549d311f.js",
+    "runtime-main.js.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/runtime-main.549d311f.js.map",
+    "static/css/2.f19d03cf.chunk.css": "/Exclusive-PG/exclusive-platform-deploy.git/static/css/2.f19d03cf.chunk.css",
+    "static/js/2.cbcf2dd7.chunk.js": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/2.cbcf2dd7.chunk.js",
+    "static/js/2.cbcf2dd7.chunk.js.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/2.cbcf2dd7.chunk.js.map",
+    "static/js/3.28d3ab04.chunk.js": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/3.28d3ab04.chunk.js",
+    "static/js/3.28d3ab04.chunk.js.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/3.28d3ab04.chunk.js.map",
+    "index.html": "/Exclusive-PG/exclusive-platform-deploy.git/index.html",
+    "static/css/2.f19d03cf.chunk.css.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/css/2.f19d03cf.chunk.css.map",
+    "static/css/main.60364d81.chunk.css.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/css/main.60364d81.chunk.css.map",
+    "static/js/2.cbcf2dd7.chunk.js.LICENSE.txt": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/2.cbcf2dd7.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/Exclusive-PG/exclusive-platform-deploy.git/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/index.css": "/Exclusive-PG/exclusive-platform-deploy.git/static/media/main_image_variant_2.62132702.jpg",
+    "static/media/weather.module.scss": "/Exclusive-PG/exclusive-platform-deploy.git/static/media/weather_pesponse_.96bf3131.jpg",
+    "static/media/sound.c3e3b604.gif": "/Exclusive-PG/exclusive-platform-deploy.git/static/media/sound.c3e3b604.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.549d311f.js",
+    "static/css/2.f19d03cf.chunk.css",
+    "static/js/2.cbcf2dd7.chunk.js",
+    "static/css/main.60364d81.chunk.css",
+    "static/js/main.c0a7ae3c.chunk.js"
+  ]
+}
