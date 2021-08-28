@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Exclusive-PG/exclusive-platform-deploy.git/static/css/main.60364d81.chunk.css",
-    "main.js": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/main.c0a7ae3c.chunk.js",
-    "main.js.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/main.c0a7ae3c.chunk.js.map",
+    "main.js": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/main.eb5e5689.chunk.js",
+    "main.js.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/main.eb5e5689.chunk.js.map",
     "runtime-main.js": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/runtime-main.549d311f.js",
     "runtime-main.js.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/runtime-main.549d311f.js.map",
     "static/css/2.f19d03cf.chunk.css": "/Exclusive-PG/exclusive-platform-deploy.git/static/css/2.f19d03cf.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.f19d03cf.chunk.css",
     "static/js/2.cbcf2dd7.chunk.js",
     "static/css/main.60364d81.chunk.css",
-    "static/js/main.c0a7ae3c.chunk.js"
+    "static/js/main.eb5e5689.chunk.js"
   ]
 }
