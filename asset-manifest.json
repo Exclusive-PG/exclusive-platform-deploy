@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Exclusive-PG/exclusive-platform-deploy.git/static/css/main.60364d81.chunk.css",
-    "main.js": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/main.eb5e5689.chunk.js",
-    "main.js.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/main.eb5e5689.chunk.js.map",
-    "runtime-main.js": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/runtime-main.549d311f.js",
-    "runtime-main.js.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/runtime-main.549d311f.js.map",
-    "static/css/2.f19d03cf.chunk.css": "/Exclusive-PG/exclusive-platform-deploy.git/static/css/2.f19d03cf.chunk.css",
-    "static/js/2.cbcf2dd7.chunk.js": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/2.cbcf2dd7.chunk.js",
-    "static/js/2.cbcf2dd7.chunk.js.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/2.cbcf2dd7.chunk.js.map",
-    "static/js/3.28d3ab04.chunk.js": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/3.28d3ab04.chunk.js",
-    "static/js/3.28d3ab04.chunk.js.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/3.28d3ab04.chunk.js.map",
-    "index.html": "/Exclusive-PG/exclusive-platform-deploy.git/index.html",
-    "static/css/2.f19d03cf.chunk.css.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/css/2.f19d03cf.chunk.css.map",
-    "static/css/main.60364d81.chunk.css.map": "/Exclusive-PG/exclusive-platform-deploy.git/static/css/main.60364d81.chunk.css.map",
-    "static/js/2.cbcf2dd7.chunk.js.LICENSE.txt": "/Exclusive-PG/exclusive-platform-deploy.git/static/js/2.cbcf2dd7.chunk.js.LICENSE.txt",
-    "static/media/all.min.css": "/Exclusive-PG/exclusive-platform-deploy.git/static/media/fa-solid-900.eeccf4f6.woff",
-    "static/media/index.css": "/Exclusive-PG/exclusive-platform-deploy.git/static/media/main_image_variant_2.62132702.jpg",
-    "static/media/weather.module.scss": "/Exclusive-PG/exclusive-platform-deploy.git/static/media/weather_pesponse_.96bf3131.jpg",
-    "static/media/sound.c3e3b604.gif": "/Exclusive-PG/exclusive-platform-deploy.git/static/media/sound.c3e3b604.gif"
+    "main.css": "/exclusive-platform-deploy/static/css/main.6b008550.chunk.css",
+    "main.js": "/exclusive-platform-deploy/static/js/main.b0eedc8d.chunk.js",
+    "main.js.map": "/exclusive-platform-deploy/static/js/main.b0eedc8d.chunk.js.map",
+    "runtime-main.js": "/exclusive-platform-deploy/static/js/runtime-main.337ef41a.js",
+    "runtime-main.js.map": "/exclusive-platform-deploy/static/js/runtime-main.337ef41a.js.map",
+    "static/css/2.42093947.chunk.css": "/exclusive-platform-deploy/static/css/2.42093947.chunk.css",
+    "static/js/2.a0ef7396.chunk.js": "/exclusive-platform-deploy/static/js/2.a0ef7396.chunk.js",
+    "static/js/2.a0ef7396.chunk.js.map": "/exclusive-platform-deploy/static/js/2.a0ef7396.chunk.js.map",
+    "static/js/3.28d3ab04.chunk.js": "/exclusive-platform-deploy/static/js/3.28d3ab04.chunk.js",
+    "static/js/3.28d3ab04.chunk.js.map": "/exclusive-platform-deploy/static/js/3.28d3ab04.chunk.js.map",
+    "index.html": "/exclusive-platform-deploy/index.html",
+    "static/css/2.42093947.chunk.css.map": "/exclusive-platform-deploy/static/css/2.42093947.chunk.css.map",
+    "static/css/main.6b008550.chunk.css.map": "/exclusive-platform-deploy/static/css/main.6b008550.chunk.css.map",
+    "static/js/2.a0ef7396.chunk.js.LICENSE.txt": "/exclusive-platform-deploy/static/js/2.a0ef7396.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/exclusive-platform-deploy/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/index.css": "/exclusive-platform-deploy/static/media/main_image_variant_2.62132702.jpg",
+    "static/media/weather.module.scss": "/exclusive-platform-deploy/static/media/weather_pesponse_.96bf3131.jpg",
+    "static/media/sound.c3e3b604.gif": "/exclusive-platform-deploy/static/media/sound.c3e3b604.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.549d311f.js",
-    "static/css/2.f19d03cf.chunk.css",
-    "static/js/2.cbcf2dd7.chunk.js",
-    "static/css/main.60364d81.chunk.css",
-    "static/js/main.eb5e5689.chunk.js"
+    "static/js/runtime-main.337ef41a.js",
+    "static/css/2.42093947.chunk.css",
+    "static/js/2.a0ef7396.chunk.js",
+    "static/css/main.6b008550.chunk.css",
+    "static/js/main.b0eedc8d.chunk.js"
   ]
 }
